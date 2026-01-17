@@ -289,103 +289,248 @@ assets:
     source:
     - name: msg/tt.yml
       language: en
-#Itempic same between PC and ps2
+#Itempic ps2
 - name: itempic/item-043.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-043.imd
 - name: itempic/item-044.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-044.imd
 - name: itempic/item-045.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-045.imd
 - name: itempic/item-046.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-046.imd
 - name: itempic/item-047.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-047.imd
 - name: itempic/item-048.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-048.imd
 - name: itempic/item-049.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-049.imd
 - name: itempic/item-050.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-050.imd
 - name: itempic/item-051.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-051.imd
 - name: itempic/item-052.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-052.imd
 - name: itempic/item-053.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-053.imd
 - name: itempic/item-054.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-054.imd
 - name: itempic/item-055.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-055.imd
 - name: itempic/item-056.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-056.imd
 - name: itempic/item-057.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-057.imd
 - name: itempic/item-058.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-058.imd
 - name: itempic/item-059.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-059.imd
 - name: itempic/item-060.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-060.imd
 - name: itempic/item-061.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-061.imd
 - name: itempic/item-062.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-062.imd
 - name: itempic/item-063.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-063.imd
 - name: itempic/item-064.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-064.imd
 - name: itempic/item-300.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-300.imd
 - name: itempic/item-301.imd
+  platform: ps2
   method: copy
   source:
   - name: itempic/item-301.imd
+#Itempic PC
+- name: remastered/itempic/item-043.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-043.imd/-0.dds
+- name: remastered/itempic/item-044.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-044.imd/-0.dds
+- name: remastered/itempic/item-045.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-045.imd/-0.dds
+- name: remastered/itempic/item-046.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-046.imd/-0.dds
+- name: remastered/itempic/item-047.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-047.imd/-0.dds
+- name: remastered/itempic/item-048.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-048.imd/-0.dds
+- name: remastered/itempic/item-049.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-049.imd/-0.dds
+- name: remastered/itempic/item-050.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-050.imd/-0.dds
+- name: remastered/itempic/item-051.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-051.imd/-0.dds
+- name: remastered/itempic/item-052.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-052.imd/-0.dds
+- name: remastered/itempic/item-053.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-053.imd/-0.dds
+- name: remastered/itempic/item-054.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-054.imd/-0.dds
+- name: remastered/itempic/item-055.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-055.imd/-0.dds
+- name: remastered/itempic/item-056.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-056.imd/-0.dds
+- name: remastered/itempic/item-057.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-057.imd/-0.dds
+- name: remastered/itempic/item-058.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-058.imd/-0.dds
+- name: remastered/itempic/item-059.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-059.imd/-0.dds
+- name: remastered/itempic/item-060.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-060.imd/-0.dds
+- name: remastered/itempic/item-061.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-061.imd/-0.dds
+- name: remastered/itempic/item-062.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-062.imd/-0.dds
+- name: remastered/itempic/item-063.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-063.imd/-0.dds
+- name: remastered/itempic/item-064.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-064.imd/-0.dds
+- name: remastered/itempic/item-300.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-300.imd/-0.dds
+- name: remastered/itempic/item-301.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-301.imd/-0.dds
 #Keyblades
 - name: obj/W_EX010.mdlx
   method: copy
