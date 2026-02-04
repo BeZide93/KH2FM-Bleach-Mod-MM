@@ -1585,6 +1585,7 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.a.us/-1.dds
+#Voice Files
 - name: voice\us\battle\al0_sora.win32.scd
   method: copy
   source:
@@ -1645,3 +1646,8 @@ assets:
   method: copy
   source:
   - name: voice\us\battle\wi0_sora.win32.scd
+#mset
+- name: obj/P_EX100.mset
+  method: copy
+  source:
+  - name: obj/P_EX100.mset
