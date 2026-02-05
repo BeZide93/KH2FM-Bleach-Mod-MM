@@ -1469,11 +1469,11 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM_ULTF.a.us/-10.dds
-- name: remastered/obj/P_EX100_XM_KH1F.a.us/-10.dds
+- name: remastered/obj/P_EX100_XM_KH1F.a.us/-9.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/P_EX100_XM_KH1F.a.us/-10.dds
+  - name: remastered/obj/P_EX100_XM_KH1F.a.us/-9.dds
 
 
 - name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
