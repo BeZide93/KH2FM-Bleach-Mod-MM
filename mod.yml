@@ -1797,3 +1797,47 @@ assets:
   method: copy
   source:
   - name: remastered/field2d/di0field.2dd/US_di0field_2dd2.png
+#jiminy
+- name: remastered/menu/jmface_al.2ld/-0.dds
+  platform: pc
+  multi:
+  - name: remastered/menu/jmface_al0.imd/-0.dds
+  - name: remastered/menu/jmface_bb.2ld/-0.dds
+  - name: remastered/menu/jmface_bb0.imd/-0.dds
+  - name: remastered/menu/jmface_ca.2ld/-0.dds
+  - name: remastered/menu/jmface_ca0.imd/-0.dds
+  - name: remastered/menu/jmface_dc.2ld/-0.dds
+  - name: remastered/menu/jmface_dc0.imd/-0.dds
+  - name: remastered/menu/jmface_eh.2ld/-0.dds
+  - name: remastered/menu/jmface_eh0.imd/-0.dds
+  - name: remastered/menu/jmface_ex.2ld/-0.dds
+  - name: remastered/menu/jmface_ex0.imd/-0.dds
+  - name: remastered/menu/jmface_ex.2ld/-1.dds
+  - name: remastered/menu/jmface_ex1.imd/-0.dds
+  - name: remastered/menu/jmface_hb.2ld/-0.dds
+  - name: remastered/menu/jmface_hb0.imd/-0.dds
+  - name: remastered/menu/jmface_he.2ld/-0.dds
+  - name: remastered/menu/jmface_he0.imd/-0.dds
+  - name: remastered/menu/jmface_lk.2ld/-0.dds
+  - name: remastered/menu/jmface_lk0.imd/-0.dds
+  - name: remastered/menu/jmface_lm.2ld/-0.dds
+  - name: remastered/menu/jmface_lm0.imd/-0.dds
+  - name: remastered/menu/jmface_mu.2ld/-0.dds
+  - name: remastered/menu/jmface_mu0.imd/-0.dds
+  - name: remastered/menu/jmface_nm.2ld/-0.dds
+  - name: remastered/menu/jmface_nm0.imd/-0.dds
+  - name: remastered/menu/jmface_nm.2ld/-1.dds
+  - name: remastered/menu/jmface_nm1.imd/-0.dds
+  - name: remastered/menu/jmface_po.2ld/-0.dds
+  - name: remastered/menu/jmface_po0.imd/-0.dds
+  - name: remastered/menu/jmface_tr.2ld/-0.dds
+  - name: remastered/menu/jmface_tr0.imd/-0.dds
+  - name: remastered/menu/jmface_tt.2ld/-0.dds
+  - name: remastered/menu/jmface_tt0.imd/-0.dds
+  - name: remastered/menu/jmface_tt.2ld/-1.dds
+  - name: remastered/menu/jmface_tt1.imd/-0.dds
+  - name: remastered/menu/jmface_wi.2ld/-0.dds
+  - name: remastered/menu/jmface_wi0.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/menu/jmface_xx.2ld/-0.dds
