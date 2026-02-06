@@ -1082,6 +1082,7 @@ assets:
   - name: obj/PO07_PLAYER.mdlx
   - name: obj/PO08_PLAYER.mdlx
   - name: obj/TR_PLAYER.mdlx
+  - name: obj/PLAYER.mdlx
   method: binarc
   source:
   - name: p_ex
@@ -1399,6 +1400,13 @@ assets:
     source:
     - name: obj/P_EX100.sqd
 #PC HUD Images
+- name: remastered/obj/PO07_PLAYER.a.us/-0.png
+  platform: pc
+  multi:
+  - name: remastered/obj/PO08_PLAYER.a.us/-0.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.us/-0.png
 - name: remastered/obj/P_EX100_XM.a.us/-8.dds
   platform: pc
   multi:
@@ -1418,6 +1426,7 @@ assets:
   - name: remastered/obj/P_EX100_TR_BTLF.a.us/-4.dds
   - name: remastered/obj/P_EX100_TR_MAGF.a.us/-2.dds
   - name: remastered/obj/P_EX100_TR_TRIF.a.us/-5.dds
+  - name: remastered/obj/AL14_PLAYER.a.us/-8.dds
   method: copy
   source:
   - name: remastered/obj/P_EX100_WI.a.us/-8.dds
