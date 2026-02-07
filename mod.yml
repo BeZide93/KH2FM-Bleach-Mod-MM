@@ -1901,3 +1901,90 @@ assets:
   method: copy
   source:
   - name: remastered/obj/M_EX020.mdlx/-0.dds
+#bgm-files
+- name: bgm/music059.win32.scd
+  method: copy
+  source:
+  - name: bgm/music059.win32.scd
+- name: bgm/music060.win32.scd
+  method: copy
+  source:
+  - name: bgm/music060.win32.scd
+- name: bgm/music061.win32.scd
+  method: copy
+  source:
+  - name: bgm/music061.win32.scd
+- name: bgm/music062.win32.scd
+  method: copy
+  source:
+  - name: bgm/music062.win32.scd
+- name: bgm/music063.win32.scd
+  method: copy
+  source:
+  - name: bgm/music063.win32.scd
+- name: bgm/music066.win32.scd
+  method: copy
+  source:
+  - name: bgm/music066.win32.scd
+- name: bgm/music067.win32.scd
+  method: copy
+  source:
+  - name: bgm/music067.win32.scd
+- name: bgm/music087.win32.scd
+  method: copy
+  source:
+  - name: bgm/music087.win32.scd
+- name: bgm/music110.win32.scd
+  method: copy
+  source:
+  - name: bgm/music110.win32.scd
+- name: bgm/music111.win32.scd
+  method: copy
+  source:
+  - name: bgm/music111.win32.scd
+- name: bgm/music114.win32.scd
+  method: copy
+  source:
+  - name: bgm/music114.win32.scd
+- name: bgm/music115.win32.scd
+  method: copy
+  source:
+  - name: bgm/music115.win32.scd
+- name: bgm/music117.win32.scd
+  method: copy
+  source:
+  - name: bgm/music117.win32.scd
+- name: bgm/music121.win32.scd
+  method: copy
+  source:
+  - name: bgm/music121.win32.scd
+- name: bgm/music131.win32.scd
+  method: copy
+  source:
+  - name: bgm/music131.win32.scd
+- name: bgm/music145.win32.scd
+  method: copy
+  source:
+  - name: bgm/music145.win32.scd
+- name: bgm/music151.win32.scd
+  method: copy
+  source:
+  - name: bgm/music151.win32.scd
+- name: bgm/music185.win32.scd
+  method: copy
+  source:
+  - name: bgm/music185.win32.scd
+- name: bgm/music188.win32.scd
+  method: copy
+  source:
+  - name: bgm/music188.win32.scd
+- name: bgm/music517.win32.scd
+  method: copy
+  source:
+  - name: bgm/music517.win32.scd
+- name: bgm/music521.win32.scd
+  method: copy
+  source:
+  - name: bgm/music521.win32.scd
+
+
