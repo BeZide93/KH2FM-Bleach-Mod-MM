@@ -1583,6 +1583,19 @@ assets:
     method: copy
     source:
     - name: pax/base.pax
+- name: obj/P_EX100_KH1F.a.us
+  method: binarc
+  multi: 
+  - name: obj/P_EX100_NM_KH1F.a.us
+  - name: obj/P_EX100_XM_KH1F.a.us
+  - name: obj/P_EX100_TR_KH1F.a.us
+  - name: obj/P_EX100_WI_KH1F.a.us
+  source:
+  - name: p_ex 
+    type: Pax
+    method: copy
+    source:
+    - name: pax/kh1f.pax
 - name: obj/P_EX100_BTLF.a.us
   method: binarc
   multi: 
