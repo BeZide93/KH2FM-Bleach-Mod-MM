@@ -1570,6 +1570,36 @@ assets:
   source:
   - name: remastered/msn/us/HB33_FM_LEX.bar/US_HB33_FM_LEX_bar0.png
 #remastered colors
+- name: magic/BLIZZARD_1.mag
+  method: binarc
+  multi: 
+  - name: magic/BLIZZARD_1lk.mag
+  source:
+  - name: bliz 
+    type: Pax
+    method: copy
+    source:
+    - name: pax/bliz1.pax
+- name: magic/BLIZZARD_2.mag
+  method: binarc
+  multi: 
+  - name: magic/BLIZZARD_2lk.mag
+  source:
+  - name: bliz 
+    type: Pax
+    method: copy
+    source:
+    - name: pax/bliz2.pax
+- name: magic/BLIZZARD_3.mag
+  method: binarc
+  multi: 
+  - name: magic/BLIZZARD_3lk.mag
+  source:
+  - name: bliz 
+    type: Pax
+    method: copy
+    source:
+    - name: pax/bliz3.pax
 - name: obj/P_EX100.a.us
   method: binarc
   multi: 
